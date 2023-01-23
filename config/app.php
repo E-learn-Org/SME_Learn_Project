@@ -185,6 +185,10 @@ return [
         /*
          * Package Service Providers...
          */
+        /*
+         * white dashboard class...
+         */
+        LaravelFrontendPresets\WhitePreset\WhitePresetServiceProvider::class,
 
         /*
          * Application Service Providers...
